@@ -4,8 +4,8 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. MAchoMaheen [https://github.com/MachoMaheen]
-2. Name [https://github.com/S-HARI-S]
+1. Maheen K[https://github.com/MachoMaheen]
+2. Sreehari S[https://github.com/S-HARI-S]
 ## Team Id
 Team id here(You can find it in email)
 ## Link to product walkthrough
